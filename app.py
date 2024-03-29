@@ -136,4 +136,4 @@ def predict():
                            query19 = request.form['query19'])
 
 
-app.run(port=5002, debug=True)
+
