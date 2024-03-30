@@ -137,3 +137,4 @@ def predict():
 
 
 
+app.run(debug=True,port=5002)
